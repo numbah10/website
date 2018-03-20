@@ -1,0 +1,18 @@
+body {
+  font-family: Arial; sans-serif;
+  margin: 10;
+  width: 500px;
+  background-color: #475D61;
+}
+h4 {
+  color: #1ABC9C;
+}
+a:any-link {
+  color: #1ABC9C;
+}
+.navigation {
+  list-style: none;
+}
+.subnavigation {
+  list-style: square;
+}

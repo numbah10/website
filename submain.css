@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  margin: 10;
+  width: 500px;
+  background-color: #1ABC9C;
+}
+h4 {
+  color: #F5B041;
+}
+.navigation {
+  list-style: none;
+}
+.subnavigation {
+  list-style: square;
+}
